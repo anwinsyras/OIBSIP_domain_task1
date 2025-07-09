@@ -4,19 +4,37 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="style.css" />
-
-    
+      <link rel="stylesheet" href="style.css" />
 </head>
-<body>
-    <h1>Contact</h1>
+
+<body style="background-image: url('image/image.jpg');">
     <nav class="navbar">
         <ul>
           <li><a href="index.html">Home</a></li>
-          <li><a href="#">Features</a></li>
-          <li><a href="#">Pricing</a></li>
+          <li><a href="features.html">Features</a></li>
+          <li><a href="pricing.html">Pricing</a></li>
           <li><a href="contact.html">Contact</a></li>
         </ul>
       </nav>
+
+    <div class="container">
+    <form>
+        <h2>Contact Us</h2>
+        <label for="name">Your Name</label><br>
+        <input type="text" id="name" name="name" required><br><br>
+
+        <label for="email">Your Email</label><br>
+        <input type="email" id="email" name="email" required><br><br>
+
+        <label for="subject">Subject</label><br>
+        <input type="text" id="subject" name="subject" required><br><br>
+
+        <label for="message">Your Message</label><br>
+        <textarea id="message" name="message" required></textarea><br><br>
+
+        <button type="submit">Send Message</button>
+    </form>
+    </div>
+
 </body>
 </html>
