@@ -2,9 +2,16 @@
 
 Welcome to *Bharat Darshan Tourism*, a simple HTML-based travel and tour website created as part of my internship project. This website showcases travel itineraries, tour packages, and a contact form for booking or inquiries.
 
-## 🌐 Website Overview
+##  Website Overview
 
 The website is built using basic HTML, CSS, and Bootstrap (if included). It contains the following main pages:
+## Objective
+-The objective of the Bharat Darshan Tourism website is to design and develop a simple, informative, and user-friendly static website for a fictional travel company that:
+-Presents a 7-day India travel itinerary in a structured and readable format
+-Showcases popular tour packages with pricing, duration, and highlights.
+-Provides a contact form for users to make inquiries or express interest in specific packages.
+-Demonstrates core web development skills using HTML, CSS, and basic layout design.
+-Simulates a real-world travel business website for the purpose of learning, internship evaluation, or portfolio building.
 
 ### 🔹 1. index.html - Home Page
 - A welcoming page titled *"The World Out There Is Waiting"*
