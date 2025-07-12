@@ -1,4 +1,4 @@
-# Bharat Darshan Tourism 🌏
+# Bharat Darshan Tourism 
 
 Welcome to *Bharat Darshan Tourism*, a simple HTML-based travel and tour website created as part of my internship project. This website showcases travel itineraries, tour packages, and a contact form for booking or inquiries.
 
