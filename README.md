@@ -30,7 +30,7 @@ The website is built using basic HTML, CSS, and Bootstrap (if included). It cont
 ##  SCREENSHOTS
 
 
-
+![image alt](https://github.com/anwinsyras/OIBSIP_domain_task1/blob/52a88785eb50e97a6627d8db7859ed8d73d393f7/Screenshot%202025-07-12%20204358.png)
 
 
 
