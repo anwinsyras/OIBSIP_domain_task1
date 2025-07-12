@@ -39,10 +39,8 @@ The website is built using basic HTML, CSS, and Bootstrap (if included). It cont
  -Showcased featured tour packages with engaging visuals, descriptions, and pricing.
 - Implemented a contact form to collect user queries and feedback.
 ## Steps
-
-   1.Create a new folder (e.g., BharatDarshan_Tourism).
-     Inside the folder, create the following HTML files:
-     index.html (Home Page) 
+1.Create a new folder (e.g., BharatDarshan_Tourism). Inside the folder, create the following HTML files:
+   index.html (Home Page) 
      features.html (Tour Packages)
      contact.html (Contact Us)
 
@@ -54,20 +52,20 @@ Add a hero section with a travel-themed background and slogan:
 “The World Out There Is Waiting”
 Create a 7-Day India Tour itinerary using a <table>:
 Include columns: Day, Date, Location, Activity, Overnigh
- 3. Apply Styling (Optional)
+3. Apply Styling (Optional)
 Use CSS or Bootstrap to:
 Style the navigation bar
 Make the layout responsive
 Improve fonts, colors, and spacing
 Use a travel-themed background image in header or body
- 4. Add Navigation Between Pages
+4. Add Navigation Between Pages
 At the top of every HTML page, add:
 <nav>
   <a href="index.html">Home</a> |
   <a href="features.html">Features</a> |
   <a href="contact.html">Contact</a>
 </nav>
- 5. Test Locally
+5. Test Locally
 Open index.html in a browser
 
 ##  SCREENSHOTS
