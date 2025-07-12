@@ -21,13 +21,13 @@ The website is built using basic HTML, CSS, and Bootstrap (if included). It cont
   - Activities
   - Overnight stays
 
-### 🔹 2. features.html - Tour Packages
+###  2. features.html - Tour Packages
 - Lists featured travel packages such as:
   - Alappuzha Backwater (₹20,000)
   - Goa Beach Party (₹25,000)
   - Explore Delhi (₹30,000)
 - Each card includes duration, key highlights, and price.
-### 🔹 3. contact.html - Contact Form
+###  3. contact.html - Contact Form
 - Simple form to collect:
   - Name
   - Email
