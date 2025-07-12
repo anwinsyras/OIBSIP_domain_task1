@@ -41,12 +41,12 @@ The website is built using basic HTML, CSS, and Bootstrap (if included). It cont
 - Implemented a contact form to collect user queries and feedback.
 ## Steps
 
-Create a new folder (e.g., BharatDarshan_Tourism). Inside the folder, create the following HTML files:
+- Create a new folder (e.g., BharatDarshan_Tourism). Inside the folder, create the following HTML files:
    index.html (Home Page) 
      features.html (Tour Packages)
      contact.html (Contact Us)
 
- Design the Website Structure
+- Design the Website Structure
  index.html – Home Page
 Add a title: Bharat Darshan Tourism
 Include a navigation bar with links to Home, Features, and Contact.
@@ -55,14 +55,14 @@ Add a hero section with a travel-themed background and slogan:
 Create a 7-Day India Tour itinerary using a <table>:
 Include columns: Day, Date, Location, Activity, Overnigh
  
- Apply Styling (Optional)
+- Apply Styling (Optional)
 Use CSS or Bootstrap to:
 Style the navigation bar
 Make the layout responsive
 Improve fonts, colors, and spacing
 Use a travel-themed background image in header or body
 
- Add Navigation Between Pages
+- Add Navigation Between Pages
 At the top of every HTML page, add:
 <nav>
   <a href="index.html">Home</a> |
@@ -70,7 +70,7 @@ At the top of every HTML page, add:
   <a href="contact.html">Contact</a>
 </nav>
 
- Test Locally
+- Test Locally
 Open index.html in a browser
 
 ##  SCREENSHOTS
