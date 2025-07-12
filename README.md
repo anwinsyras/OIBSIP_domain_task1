@@ -44,6 +44,7 @@ Inside the folder, create the following HTML files:
 index.html (Home Page)
 features.html (Tour Packages)
 contact.html (Contact Us)
+
 2. Design the Website Structure
  index.html – Home Page
 Add a title: Bharat Darshan Tourism
