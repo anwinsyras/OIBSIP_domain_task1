@@ -34,4 +34,4 @@ The website is built using basic HTML, CSS, and Bootstrap (if included). It cont
 
 ![image alt](https://github.com/anwinsyras/OIBSIP_domain_task1/blob/b56fd3b86be730b0e08c5db49a23e9aae8bda68f/Screenshot%202025-07-12%20204428.png)
 
-
+![image alt](https://github.com/anwinsyras/OIBSIP_domain_task1/blob/a3d15d74f43ee059f01bc5cf450790ff2d5dc0df/Screenshot%202025-07-12%20204502.png)
