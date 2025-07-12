@@ -26,6 +26,12 @@ The website is built using basic HTML, CSS, and Bootstrap (if included). It cont
   - Email
   - Feature (interested package)
   - Message
+## Outcome
+  -Designed a clean and responsive website layout with a professional tourism theme.
+ -Developed a 7-day travel itinerary table, clearly outlining travel dates, locations, activities, and overnight stays.
+ -Showcased featured tour packages with engaging visuals, descriptions, and pricing.
+- Implemented a contact form to collect user queries and feedback.
+    
 
 ##  SCREENSHOTS
 
