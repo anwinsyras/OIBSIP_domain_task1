@@ -39,6 +39,7 @@ The website is built using basic HTML, CSS, and Bootstrap (if included). It cont
  -Showcased featured tour packages with engaging visuals, descriptions, and pricing.
 - Implemented a contact form to collect user queries and feedback.
 ## Steps
+
 1.Create a new folder (e.g., BharatDarshan_Tourism).
 Inside the folder, create the following HTML files:
 index.html (Home Page)
